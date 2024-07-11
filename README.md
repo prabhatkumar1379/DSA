@@ -109,8 +109,9 @@ public static long SumofNo(int n)
 }
 ```
 <p><b>Time Complexity</b></p>
-
-<p> Its amount of time taken by algorithm to run.</p>
-<p> The input processed by an algorithm helps in determining the time complexity.</p>
+<ul>
+    <li>Its amount of time taken by algorithm to run.</li>
+    <li>The input processed by an algorithm helps in determining the time complexity.</li>
+</ul>
 
    
