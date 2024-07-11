@@ -55,5 +55,22 @@ after organizing data ,it becomes easy to process it.
     </li>
     <li>Stir, drink, and enjoy!!!</li>
 </ol>
- 
-
+ ----
+ example
+ <h2>Print average of 3 given numbers.</h2>
+<p>Let say you want to write algorithm for it. So, the steps would be</p>
+<ol>
+    <li>Perform sum of 3 numbers.</li>
+    <li>Store it in a variable <code>sum</code>.</li>
+    <li>Divide the sum by 3.</li>
+    <li>Store the value in variable <code>avg</code>.</li>
+    <li>Print the value stored in <code>avg</code>.</li>
+</ol>
+```
+public static void findAvg(int a, int b, int c)
+    {
+        int sum = a + b + c;
+        int avg = sum / 3;
+        Console.WriteLine(avg);
+    }
+```
