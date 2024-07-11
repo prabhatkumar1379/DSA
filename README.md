@@ -92,6 +92,9 @@ public static void findAvg(int a, int b, int c)
     </li>
 </ul>
 <p><b>Example</b></p>
+
+```
+a
 ```
 public static long Sumofn(int n)
         {
@@ -106,4 +109,4 @@ public static long Sumofn(int n)
             }
             return sum;
         }
-    ```
+   
