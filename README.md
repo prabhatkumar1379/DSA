@@ -204,3 +204,11 @@ By Lower and Upper bound means for any given input this notation determines an a
 For example-If we run certain algorithm and it takes 100 secs for first run, 120 secs for second run ,110 for third run and so on.,So Theta (Θ) Notation gives an 
 average of running time of that algorithm.
 </P>
+<p><b>Big O(O) Notation</b></p>
+<p>
+It is the formal way to express the upper bound of an algorithm's running time.
+Upper bound means for any given input this notation determines longest amount of time an algorithm can take to complete.
+<b>For Example</b> If we say certain algorithm takes 100 secs as longest amount of time.So 100 secs will be upper bound of that algorithm .
+the algorithm can take less than 100 secs but it will not take more than 100 secs
+</p>
+
