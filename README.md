@@ -75,7 +75,7 @@ public static void findAvg(int a, int b, int c)
         Console.WriteLine(avg);
     }
 ```
-<p><b></b>Analysis of Algorithms</p>b></p>
+<p><b>Analysis of Algorithms</b></p>
 
 <ul>
     <li>An Algorithm is a set of instructions to perform a task or to solve a given problem.</li>
