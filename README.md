@@ -68,5 +68,10 @@ after organizing data ,it becomes easy to process it.
 </ol>
 
 ```
-kjkj
+public static void findAvg(int a, int b, int c)
+    {
+        int sum = a + b + c;
+        int avg = sum / 3;
+        Console.WriteLine(avg);
+    }
 ```
