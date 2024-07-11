@@ -114,4 +114,28 @@ public static long SumofNo(int n)
     <li>The input processed by an algorithm helps in determining the time complexity.</li>
 </ul>
 
-   
+   <table>
+    <tr>
+        <td>
+            <pre>
+public static long Sumofn(int n)
+{
+    return n * (n + 1) / 2;
+}
+            </pre>
+        </td>
+        <td>
+            <pre>
+public static long SumofNo(int n)
+{
+    long sum = 0;
+    for (int i = 1; i <= n; i++)
+    {
+        sum += i;
+    }
+    return sum;
+}
+            </pre>
+        </td>
+    </tr>
+</table>
