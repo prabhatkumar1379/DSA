@@ -75,3 +75,19 @@ public static void findAvg(int a, int b, int c)
         Console.WriteLine(avg);
     }
 ```
+<p><b></b>Analysis of Algorithms</p>b></p>
+
+<ul>
+    <li>An Algorithm is a set of instructions to perform a task or to solve a given problem.</li>
+    <li>There are several different algorithms to solve a given problem.</li>
+    <li>Analysis of algorithm deals in finding best algorithm which runs fast and takes in less memory.</li>
+    <li>For example –
+        <p>Q. Find sum of first n natural numbers.</p>
+        <ul>
+            <li>a) Input :- n = 4<br>
+                Output :- 10 i.e. (1 + 2 + 3 + 4)</li>
+            <li>b) Input :- n = 5<br>
+                Output :- 15 i.e. (1 + 2 + 3 + 4 + 5)</li>
+        </ul>
+    </li>
+</ul>
