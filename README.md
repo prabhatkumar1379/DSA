@@ -196,3 +196,11 @@ public static long SumofNo(int n)
 Lower bound means for any given input this notation determines the best amount of time an algorithm can take to complete.
 For Example-If we say certain algorithm takes 100 secs as best amount of time.So,100 secs will be lower bound of that algorithm.the algorithm can take
 more than 100 secs but it will not take less than 100 secs </p>
+
+<p><b>Theta (Θ) Notation</b></p>
+<P>
+It is the formal way to express both the upper and lower bound of an algorithm's running time.
+By Lower and Upper bound means for any given input this notation determines an average amount of time an algorithm can take to complete.
+For example-If we run certain algorithm and it takes 100 secs for first run, 120 secs for second run ,110 for third run and so on.,So Theta (Θ) Notation gives an 
+average of running time of that algorithm.
+</P>
