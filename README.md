@@ -188,8 +188,8 @@ public static long SumofNo(int n)
 <p>There are three notations for performance running analysis of an algorithm</p>
 <ul>
         <ol>1.Omega(Ω) Notation</ol>
-        <ol>2.Big O(O) Notation</ol>
-        <ol>3.Theta (Θ) Notation</ol>
+        <ol>2.Theta (Θ) Notation</ol>
+        <ol>3.Big O(O) Notation</ol>
 </ul>
 <p><b>Omega(Ω) Notation</b></p>
 <p>It is the formal way to express the lower bound of an algorithm'size running time.
