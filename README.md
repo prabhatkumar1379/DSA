@@ -66,11 +66,7 @@ after organizing data ,it becomes easy to process it.
     <li>Store the value in variable <code>avg</code>.</li>
     <li>Print the value stored in <code>avg</code>.</li>
 </ol>
+
 ```
-public static void findAvg(int a, int b, int c)
-    {
-        int sum = a + b + c;
-        int avg = sum / 3;
-        Console.WriteLine(avg);
-    }
+kjkj
 ```
