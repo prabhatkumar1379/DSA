@@ -6,11 +6,8 @@ DSA
 after organizing data ,it becomes easy to process it.
 </div>
 <hr>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+ 
     <title>Data Structures</title>
     <style>
         table {
@@ -26,8 +23,7 @@ after organizing data ,it becomes easy to process it.
             background-color: #f2f2f2;
         }
     </style>
-</head>
-<body>
+ 
 
 <h2>Types of Data Structures</h2>
 
@@ -62,7 +58,5 @@ after organizing data ,it becomes easy to process it.
     </tbody>
 </table>
 
-</body>
-</html>
-
+ 
 
