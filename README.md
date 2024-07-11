@@ -1,17 +1,13 @@
 
 # DSA
-DSA
 <h1>Data Structure</h1>
 <div>
  It is a way to organise the data.
 after organizing data ,it becomes easy to process it.
 </div>
-<hr>
- 
- <!-- https://www.youtube.com/watch?v=2ZLl8GAk1X4 -->
-     
+<hr> 
+ <!-- https://www.youtube.com/watch?v=2ZLl8GAk1X4 -->     
 <h2>Types of Data Structures</h2>
-
 <table>
     <thead>
         <tr>
@@ -44,11 +40,8 @@ after organizing data ,it becomes easy to process it.
 </table>
 <hr>
 <h1>Algorithms</h1>
-
 <p>An algorithm is a set of instructions to perform a task or to solve a given problem. For example, a recipe book is a collection of recipes in which each recipe provides a step-by-step instruction to prepare food.</p>
-
 <p>Let's say you want to prepare tea. The steps would be:</p>
-
 <ol>
     <li>Boil water.</li>
     <li>Put tea in the teapot.</li>
