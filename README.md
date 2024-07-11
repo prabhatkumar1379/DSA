@@ -155,8 +155,34 @@ public static long SumofNo(int n)
     <li>Using asymptotic analysis we don't measure actual running time of algorithm.</li>
  <li>It helps in determining how time and space taken by algorithm increases with input size.</li>
 </ul>
+<p> Asymptotic Notations</p>
+    <p>Asymptotic Notations are the mathematical tools used to describe the running time of an algorithm in terms of input size.</p>
+    <p>Example: Performance of a Car in 1 Liter of Petrol</p>
+    <table class="example-table">
+        <tr>
+            <th>Traffic Condition</th>
+            <th>Performance (km/liter)</th>
+        </tr>
+        <tr>
+            <td>Highway (min traffic)</td>
+            <td>25 km/liter</td>
+        </tr>
+        <tr>
+            <td>City + Highway (avg traffic)</td>
+            <td>20 km/liter</td>
+        </tr>
+        <tr>
+            <td>City (max traffic)</td>
+            <td>15 km/liter</td>
+        </tr>
+    </table>
 
-
+    <p>Asymptotic Notations help us in determining:</p>
+    <ol>
+        <li>Best Case</li>
+        <li>Average Case</li>
+        <li>Worst Case</li>
+    </ol>
 
 
 
