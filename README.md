@@ -177,12 +177,11 @@ public static long SumofNo(int n)
         </tr>
     </table>
 
-    <p>Asymptotic Notations help us in determining:</p>
-    <ol>
+<p>Asymptotic Notations help us in determining:</p>
+<ul>
         <li>Best Case</li>
         <li>Average Case</li>
         <li>Worst Case</li>
-    </ol>
-
+</ul>
 
 
