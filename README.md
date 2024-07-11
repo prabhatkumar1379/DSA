@@ -141,3 +141,9 @@ public static long SumofNo(int n)
         </td>
     </tr>
 </table>
+
+<p><b>Space Complexity</b></p>
+<ul>
+    <li>Its amount of memory or space taken by algorithm to run.</li>
+    <li>The memory reqired to process the input by an algorithm helps in determinig the space complexity.</li>
+</ul>
