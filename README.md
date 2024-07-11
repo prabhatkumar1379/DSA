@@ -57,7 +57,7 @@ after organizing data ,it becomes easy to process it.
 </ol>
  ----
  example
- <h2>Print average of 3 given numbers.</h2>
+ <h3>Print average of 3 given numbers.</h3>
 <p>Let say you want to write algorithm for it. So, the steps would be</p>
 <ol>
     <li>Perform sum of 3 numbers.</li>
