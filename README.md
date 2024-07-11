@@ -124,6 +124,7 @@ public static long Sumofn(int n)
 }
             </pre>
         </td>
+     time taken 0.0 millisecs
         <td>
             <pre>
 public static long SumofNo(int n)
@@ -135,6 +136,7 @@ public static long SumofNo(int n)
     }
     return sum;
 }
+     time taken 2.0 millisecs
             </pre>
         </td>
     </tr>
