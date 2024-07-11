@@ -122,9 +122,10 @@ public static long Sumofn(int n)
 {
     return n * (n + 1) / 2;
 }
+               time taken 0.0 millisecs
             </pre>
         </td>
-     time taken 0.0 millisecs
+   
         <td>
             <pre>
 public static long SumofNo(int n)
