@@ -8,23 +8,7 @@ after organizing data ,it becomes easy to process it.
 <hr>
  
  
-    <title>Data Structures</title>
-    <style>
-        table {
-            width: 50%;
-            border-collapse: collapse;
-            margin: 20px 0;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
- 
-
+     
 <h2>Types of Data Structures</h2>
 
 <table>
