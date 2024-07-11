@@ -147,3 +147,16 @@ public static long SumofNo(int n)
     <li>Its amount of memory or space taken by algorithm to run.</li>
     <li>The memory reqired to process the input by an algorithm helps in determinig the space complexity.</li>
 </ul>
+
+<p><b>Asymptotic Analysis of an Algorithm</b></p>
+<p>Asymptotic Analysis</p>
+<ul>
+    <li>It helps in evaluating performance of an algorithm in terms of input size and its increase.</li>
+    <li>Using asymptotic analysis we don't measure actual running time of algorithm.</li>
+ <li>It helps in determining how time and space taken by algorithm increases with input size.</li>
+</ul>
+
+
+
+
+
