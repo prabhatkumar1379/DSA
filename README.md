@@ -114,7 +114,7 @@ public static long SumofNo(int n)
     <li>The input processed by an algorithm helps in determining the time complexity.</li>
 </ul>
 
-   <table>
+<table>
     <tr>
         <td>
             <pre>
@@ -124,7 +124,6 @@ public static long Sumofn(int n)
 }
             </pre>
         </td>
-   
         <td>
             <pre>
 public static long SumofNo(int n)
