@@ -117,7 +117,6 @@ public static long SumofNo(int n)
    <table>
     <tr>
         <td>
-          time taken 0.0 millisecs
             <pre>
 public static long Sumofn(int n)
 {
@@ -127,7 +126,6 @@ public static long Sumofn(int n)
         </td>
    
         <td>
-          time taken 2.0 millisecs
             <pre>
 public static long SumofNo(int n)
 {
