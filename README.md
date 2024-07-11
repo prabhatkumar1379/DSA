@@ -42,6 +42,25 @@ after organizing data ,it becomes easy to process it.
         </tr>
     </tbody>
 </table>
+<hr>
+<h1>Algorithms</h1>
 
+<p>An algorithm is a set of instructions to perform a task or to solve a given problem. For example, a recipe book is a collection of recipes in which each recipe provides a step-by-step instruction to prepare food.</p>
+
+<p>Let's say you want to prepare tea. The steps would be:</p>
+
+<ol>
+    <li>Boil water.</li>
+    <li>Put tea in the teapot.</li>
+    <li>Add hot water.</li>
+    <li>Put hot tea into tea cups.</li>
+    <li>Do you need sugar?
+        <ul>
+            <li>a) If yes, put it into tea cups.</li>
+            <li>b) If no, do nothing.</li>
+        </ul>
+    </li>
+    <li>Stir, drink, and enjoy!!!</li>
+</ol>
  
 
