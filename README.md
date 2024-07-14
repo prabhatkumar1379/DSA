@@ -225,38 +225,10 @@ the algorithm can take less than 100 secs but it will not take more than 100 sec
             <li>6. Index starts at 0 and for (one dimensional array) ends at length - 1.</li>
         </ul>
     </div>
-<h2>Declaration and Initialization of an Array</h2>
-        
-        <p>Declaration of a One Dimensional Array</p>
-        <p>One Dimensional array can be declared via syntax:</p>
-        <code>
-            dataType arrayName[];<br>
-            dataType [] arrayName;
-        </code>
-        <p>For example:</p>
-        <code>
-            int myarr[];<br>
-            int [] myarr;
-        </code>
+## Declaration and Initialization of an Array
 
-        <h2>Initialization of an Array</h2>
-        <p>It gives memory to array element. One Dimensional array can be initialized via syntax:</p>
-        <code>
-            arrayName = new dataType[size];
-        </code>
-        <p>For example:</p>
-        <code>
-            myarr = new int[5];
-        </code>
+### Declaration of a One Dimensional Array
+One Dimensional array can be declared via syntax:
+dataType arrayName[];
+dataType [] arrayName;
 
-        <h2>Declaration and Initialization</h2>
-        <p>The array can be declared and initialized in the same line via syntax:</p>
-        <code>
-            dataType [] arrayName = new dataType[size];<br>
-            dataType arrayName [] = new dataType[size];
-        </code>
-        <p>For example:</p>
-        <code>
-            int [] myarr = new int[5];<br>
-            int myarr [] = new int[5];
-        </code>
