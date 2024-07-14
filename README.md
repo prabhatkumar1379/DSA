@@ -215,18 +215,7 @@ the algorithm can take less than 100 secs but it will not take more than 100 sec
 <h4>Examples</h4>
  <div class="container">
         <h1>What is an Array?</h1>
-        <div class="array-box" style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-            <div style="background-color: #76b900; color: black; border: 1px solid black; padding: 10px; margin: 2px; text-align: center;">5</div>
-            <div style="background-color: #76b900; color: black; border: 1px solid black; padding: 10px; margin: 2px; text-align: center;">9</div>
-            <div style="background-color: #76b900; color: black; border: 1px solid black; padding: 10px; margin: 2px; text-align: center;">3</div>
-            <div style="background-color: #76b900; color: black; border: 1px solid black; padding: 10px; margin: 2px; text-align: center;">10</div>
-        </div>
-        <div class="array-box index" style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-            <div style="margin: 2px; text-align: center;">0</div>
-            <div style="margin: 2px; text-align: center;">1</div>
-            <div style="margin: 2px; text-align: center;">2</div>
-            <div style="margin: 2px; text-align: center;">3</div>
-        </div>
+       <img src="https://github.com/prabhatkumar1379/DSA/blob/main/array.PNG?raw=true" alt="Array Example">
         <ul>
             <li>1. It’s a collection (box) of data elements of specified type.</li>
             <li>2. All data holding partitions have contiguous memory locations.</li>
