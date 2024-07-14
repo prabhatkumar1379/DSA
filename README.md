@@ -213,3 +213,26 @@ the algorithm can take less than 100 secs but it will not take more than 100 sec
 </p>
 
 <h4>Examples</h4>
+<div class="container">
+        <h1>What is an Array?</h1>
+        <div class="array-box">
+            <div>5</div>
+            <div>9</div>
+            <div>3</div>
+            <div>10</div>
+        </div>
+        <div class="array-box index">
+            <div>0</div>
+            <div>1</div>
+            <div>2</div>
+            <div>3</div>
+        </div>
+        <ul>
+            <li>1. It’s a collection (box) of data elements of specified type.</li>
+            <li>2. All data holding partitions have contiguous memory locations.</li>
+            <li>3. Each partition has two neighbors except first and last one.</li>
+            <li>4. Size of array is fixed and cannot be modified once it is created.</li>
+            <li>5. Being adjacent each partition is indexed and can be determined by its position.</li>
+            <li>6. Index starts at 0 and for (one dimensional array) ends at length - 1.</li>
+        </ul>
+    </div>
