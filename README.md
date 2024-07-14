@@ -232,6 +232,7 @@ One Dimensional array can be declared via syntax:
 <p>dataType arrayName[];</p>
 <p>dataType [] arrayName;</p>
 for example 
+
 ```
 int myarr [];
 int [] myarr;
@@ -240,6 +241,7 @@ int [] myarr;
 <h4>Initialization of an Array</h4>
 <p>
 It gives memory to array element .One Dimensional array can be initialized via syntax -</p>
+
 ```
 arratName = new dataType[size];
 for example-
