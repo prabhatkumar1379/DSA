@@ -212,3 +212,4 @@ Upper bound means for any given input this notation determines longest amount of
 the algorithm can take less than 100 secs but it will not take more than 100 secs
 </p>
 
+<h4>Examples</h4>
