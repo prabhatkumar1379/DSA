@@ -231,4 +231,29 @@ the algorithm can take less than 100 secs but it will not take more than 100 sec
 One Dimensional array can be declared via syntax:
 <p>dataType arrayName[];</p>
 <p>dataType [] arrayName;</p>
+for example 
+```
+int myarr [];
+int [] myarr;
+```
 
+<h4>Initialization of an Array</h4>
+<p>
+It gives memory to array element .One Dimensional array can be initialized via syntax -</p>
+```
+arratName = new dataType[size];
+for example-
+myarr = new int [5];
+```
+
+<h4>Declaration and Initialization</h4> 
+
+the array can declared and initialized in same line  via syntax -
+```
+dataType [] arraName = new dataType[size];
+dataType arraName [] = new dataType[size];
+
+For example -
+int [] myarr = new int[5];
+int myarr [] =new int[5];
+```
