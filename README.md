@@ -225,7 +225,6 @@ the algorithm can take less than 100 secs but it will not take more than 100 sec
             <li>6. Index starts at 0 and for (one dimensional array) ends at length - 1.</li>
         </ul>
     </div>
-<hr>
 <h2>Declaration and Initialization of an Array</h2>
         
         <p>Declaration of a One Dimensional Array</p>
