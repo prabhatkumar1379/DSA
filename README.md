@@ -226,9 +226,9 @@ the algorithm can take less than 100 secs but it will not take more than 100 sec
         </ul>
     </div>
 <hr>
-<h1>Declaration and Initialization of an Array</h1>
+<h2>Declaration and Initialization of an Array</h2>
         
-        <h2>Declaration of a One Dimensional Array</h2>
+        <p>Declaration of a One Dimensional Array</p>
         <p>One Dimensional array can be declared via syntax:</p>
         <code>
             dataType arrayName[];<br>
