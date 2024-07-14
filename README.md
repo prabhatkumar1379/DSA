@@ -213,19 +213,19 @@ the algorithm can take less than 100 secs but it will not take more than 100 sec
 </p>
 
 <h4>Examples</h4>
-<div class="container">
+ <div class="container">
         <h1>What is an Array?</h1>
-        <div class="array-box">
-            <div>5</div>
-            <div>9</div>
-            <div>3</div>
-            <div>10</div>
+        <div class="array-box" style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+            <div style="background-color: #76b900; color: black; border: 1px solid black; padding: 10px; margin: 2px; text-align: center;">5</div>
+            <div style="background-color: #76b900; color: black; border: 1px solid black; padding: 10px; margin: 2px; text-align: center;">9</div>
+            <div style="background-color: #76b900; color: black; border: 1px solid black; padding: 10px; margin: 2px; text-align: center;">3</div>
+            <div style="background-color: #76b900; color: black; border: 1px solid black; padding: 10px; margin: 2px; text-align: center;">10</div>
         </div>
-        <div class="array-box index">
-            <div>0</div>
-            <div>1</div>
-            <div>2</div>
-            <div>3</div>
+        <div class="array-box index" style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+            <div style="margin: 2px; text-align: center;">0</div>
+            <div style="margin: 2px; text-align: center;">1</div>
+            <div style="margin: 2px; text-align: center;">2</div>
+            <div style="margin: 2px; text-align: center;">3</div>
         </div>
         <ul>
             <li>1. It’s a collection (box) of data elements of specified type.</li>
