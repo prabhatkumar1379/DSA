@@ -258,4 +258,9 @@ dataType arraName [] = new dataType[size];
 For example -
 int [] myarr = new int[5];
 int myarr [] =new int[5];
+int[] myarr = new int[] {1, 2, 3, 4};
+int myarr[]  = new int[] {1, 2, 3, 4};
+int myarr [] = new[] {1, 2, 3, 4};
+
+
 ```
