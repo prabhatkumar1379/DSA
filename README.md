@@ -229,6 +229,6 @@ the algorithm can take less than 100 secs but it will not take more than 100 sec
 
 ### Declaration of a One Dimensional Array
 One Dimensional array can be declared via syntax:
-dataType arrayName[];
-dataType [] arrayName;
+<p>dataType arrayName[];</p>
+<p>dataType [] arrayName;</p>
 
