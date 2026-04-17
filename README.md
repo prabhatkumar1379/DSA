@@ -264,3 +264,50 @@ int myarr [] = new[] {1, 2, 3, 4};
 
 
 ```
+
+```
+using System;
+using System.Collections.Generic;
+
+namespace DsaDay2
+{
+    public class Program
+    {
+        public static void Main()
+        {
+            Console.WriteLine(Program.GetPair("({[]})"));  // True
+            Console.WriteLine("==============");
+            Console.WriteLine(Program.GetPair("({[})"));   // False
+        }
+
+        public static bool GetPair(string s)
+        {
+            Stack<char> stack = new Stack<char>();
+
+            foreach (char ch in s)
+            {
+                if (ch == '(' || ch == '{' || ch == '[')
+                {
+                    stack.Push(ch);
+                }
+                else if (ch == ')' || ch == '}' || ch == ']')
+                {
+                    if (stack.Count == 0)
+                        return false;
+
+                    char top = stack.Pop();
+
+                    if (!(top == '(' && ch == ')' ||
+                          top == '{' && ch == '}' ||
+                          top == '[' && ch == ']'))
+                    {
+                        return false;
+                    }
+                }
+            }
+
+            return stack.Count == 0;
+        }
+    }
+}
+```
