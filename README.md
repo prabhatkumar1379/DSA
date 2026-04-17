@@ -268,6 +268,7 @@ int myarr [] = new[] {1, 2, 3, 4};
 <div class="container">
         <h1>Given a string containing brackets (, ), {, }, [ and ], determine whether the input string is balanced</h1>
 </div>
+
 ```
 using System;
 using System.Collections.Generic;
